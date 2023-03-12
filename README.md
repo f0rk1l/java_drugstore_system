@@ -1,1 +1,1 @@
-# java_drugstore_system
+this is a small imitation of a pharmacy management system in java.
